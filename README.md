@@ -26,8 +26,10 @@ Ultimate UI将复杂的AI技术转化为易用的SaaS服务，为企业和个人
 
 - ✅ **知识库** - 上传文档建立专属知识库，让AI回答更精准
 - ✅ **多模态** - 支持图像理解与分析，实现文本与图像的互动
+- ✅ **联网搜索** - 支持多种搜索引擎，原生搜索内容提取
 - ✅ **文件分析** - 智能解析各类文档，提取关键信息
 - ✅ **国际化** - 支持多语言界面，适应全球用户需求
+- ✅ **Artifact** - 支持实时预览代码，与ChatGPT/Claude官网效果一样
 - ✅ **UI进化** - 致力于打造最顶尖的UI界面，给予用户最好的使用体验
 
 ## 🔮 即将支持
@@ -75,6 +77,11 @@ Ultimate UI将复杂的AI技术转化为易用的SaaS服务，为企业和个人
     <h4>易支付</h4>
     <img width="100%" src="https://github.com/user-attachments/assets/52e8450a-4c3c-4362-b40f-739c1b168c44" alt="易支付"/>
   </div>
+</div>
+
+<div align="center">
+  <h3>Artifact</h3>
+  <img width="80%" src="https://github.com/user-attachments/assets/4a2c0f54-3e17-4813-b60a-19929e973a93" alt="Artifact"/>
 </div>
 
 <div align="center">
